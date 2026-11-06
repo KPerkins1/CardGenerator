@@ -1,0 +1,14 @@
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\CardGenerator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\CardGenerator.AssemblyInfoInputs.cache
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\CardGenerator.AssemblyInfo.cs
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\CardGenerator.csproj.CoreCompileInputs.cache
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\bin\Debug\net10.0\CardGenerator.exe
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\bin\Debug\net10.0\CardGenerator.deps.json
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\bin\Debug\net10.0\CardGenerator.runtimeconfig.json
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\bin\Debug\net10.0\CardGenerator.dll
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\bin\Debug\net10.0\CardGenerator.pdb
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\CardGenerator.dll
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\refint\CardGenerator.dll
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\CardGenerator.pdb
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\CardGenerator.genruntimeconfig.cache
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\ref\CardGenerator.dll
