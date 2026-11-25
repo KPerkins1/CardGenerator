@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kaitl\\OneDrive\\Documents\\PersonalProjects(for Github)\\RandomCardGenerator\\CardGenerator\\CardGenerator.csproj": {}
+    "c:\\Users\\Kaitl\\OneDrive\\Documents\\PersonalProjects(for Github)\\RandomCardGenerator\\CardGenerator\\CardGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kaitl\\OneDrive\\Documents\\PersonalProjects(for Github)\\RandomCardGenerator\\CardGenerator\\CardGenerator.csproj": {
+    "c:\\Users\\Kaitl\\OneDrive\\Documents\\PersonalProjects(for Github)\\RandomCardGenerator\\CardGenerator\\CardGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaitl\\OneDrive\\Documents\\PersonalProjects(for Github)\\RandomCardGenerator\\CardGenerator\\CardGenerator.csproj",
+        "projectUniqueName": "c:\\Users\\Kaitl\\OneDrive\\Documents\\PersonalProjects(for Github)\\RandomCardGenerator\\CardGenerator\\CardGenerator.csproj",
         "projectName": "CardGenerator",
-        "projectPath": "C:\\Users\\Kaitl\\OneDrive\\Documents\\PersonalProjects(for Github)\\RandomCardGenerator\\CardGenerator\\CardGenerator.csproj",
+        "projectPath": "c:\\Users\\Kaitl\\OneDrive\\Documents\\PersonalProjects(for Github)\\RandomCardGenerator\\CardGenerator\\CardGenerator.csproj",
         "packagesPath": "C:\\Users\\Kaitl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaitl\\OneDrive\\Documents\\PersonalProjects(for Github)\\RandomCardGenerator\\CardGenerator\\obj\\",
+        "outputPath": "c:\\Users\\Kaitl\\OneDrive\\Documents\\PersonalProjects(for Github)\\RandomCardGenerator\\CardGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
