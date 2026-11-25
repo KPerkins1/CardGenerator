@@ -12,3 +12,4 @@ c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerat
 c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\CardGenerator.pdb
 c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\CardGenerator.genruntimeconfig.cache
 c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\ref\CardGenerator.dll
+c:\Users\Kaitl\OneDrive\Documents\PersonalProjects(for Github)\RandomCardGenerator\CardGenerator\obj\Debug\net10.0\CardGenerator.sourcelink.json
